@@ -1,6 +1,6 @@
 import React from "react";
 import Logo from "./Head1";
-import Head2 from "./head2";
+import Head2 from "./Head2";
 import Head3 from "./Head3";
 
 const Header = () => {
